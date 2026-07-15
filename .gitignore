@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data & models (regenerated locally, not committed)
+data/creditcard.csv
+data/processed/
+models/*.pkl
+models/*.json
+
+# Env
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
